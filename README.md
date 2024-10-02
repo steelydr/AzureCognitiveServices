@@ -1,5 +1,5 @@
 # AzureCognitiveServices
-
+# AI 900 FUNDAMENTALS 
 # 1. Artificial Intelligence Workloads and Considerations (15–20%)
 # 1.1 Identify features of common AI workloads
   * Features of content moderation and personalization workloads
